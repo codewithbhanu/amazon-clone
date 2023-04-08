@@ -1,0 +1,36 @@
+.row {
+  display: flex;
+  margin: auto;
+  color: #dddddd;
+  font: 14px "Amazon Ember", Arial, sans-serif;
+  padding: 0px 10px;
+}
+
+.main-footer {
+  display: flex;
+  margin: auto;
+  color: #0f1111;
+  background: #232f3e;
+  height: 300px;
+}
+
+.footer-bootom {
+  color: whitesmoke;
+  margin-left: 20px;
+  font: 14px "Amazon Ember", Arial, sans-serif;
+}
+
+.items {
+  margin-left: 20px;
+}
+
+.list-unstyled {
+  list-style-type: none;
+}
+
+.header {
+  margin-left: 20px;
+  background: none;
+  padding: 0px 10px;
+  margin: auto;
+}
